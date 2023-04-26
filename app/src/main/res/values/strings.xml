@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="to_do_title">To Do!</string>
+    <string name="plus_sign">+</string>
+    <string name="minus_sign">-</string>
+    <string name="example_text">eg. Buy groceries.</string>
+</resources>
